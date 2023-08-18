@@ -45,8 +45,17 @@ Ich hoffe in diesem Projekt, die Grundlagen, die wir im 1. Lehrjahr erarbeitet h
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |  01.09.2023     |  Sacher         |  Geheimzahl generieren                                          | 15 Min              |
+| 2.A  |  01.09.2023     |  Sacher         |  Eingabe von Zahlen                                             | 15 Min              |
+| 3.A  |  01.09.2023     |  Sacher         |  Ausgabe von einem Hinweis                                      | 30 Min              |
+| 3.B  |  01.09.2023     |  Sacher         |  Ausgabe von einem Hinweis, für zu kleine Zahlen                |  5 Min              |
+| 3.C  |  01.09.2023     |  Sacher         |  Ausgabe von einem Hinweis, für zu grosse Zahlen                |  5 Min              |
+| 3.D  |  01.09.2023     |  Sacher         |  Ausgabe von einem Hinweis, für richtige Zahlen                 |  5 Min              |
+| 4.A  |  01.09.2023     |  Sacher         |  Ausgabe von Anzahl versuchen                                   | 30 Min              |
+| 5.A  |  01.09.2023     |  Sacher         |  Fehleingaben abfangen                                          | 30 Min              |
+| 6.A  |  01.09.2023     |  Sacher         |  Siegessound, wenn Sieg                                         | 30 Min              |
+| 7.A  |  01.09.2023     |  Sacher         |  Schriftfarbe für richtige Zahl Grün und für falsche Zahl rot   | 30 Min              |
+
 
 Total: 
 
