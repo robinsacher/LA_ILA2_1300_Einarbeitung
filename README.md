@@ -6,9 +6,10 @@
 
 ### 1.1 Ihr Projekt
 
-In diesem Projekt entwickle ich ein Numberguesser, der Rückmeldung gibt, ob die geratene Zahl zu hoch, zu tief oder genau richtig ist.
+In diesem Projekt entwickle ich ein Numberguesser mit der Programmiersprache C#, der Rückmeldung gibt, ob die geratene Zahl zu hoch, zu tief oder genau richtig ist. Ausserdem baue ich einen Singleplayer und einen Multiplayer ein, indem man z.B. mit einem Freund spielen kann.
 
-Ich hoffe in diesem Projekt, die Grundlagen, die wir im 1. Lehrjahr erarbeitet haben, repetieren zu können und. Ausserdem hoffe ich, dass ich mehr Routine gewinnen kann. Ein weiteres Ziel ist, die Programmiersprache C#  weiter zu vertiefen und Erfahrung zu sammeln.
+### 1.2 Ihre Ziele
+LZ 1: 
 
 ### 1.2 User Stories
 
@@ -22,8 +23,8 @@ Ich hoffe in diesem Projekt, die Grundlagen, die wir im 1. Lehrjahr erarbeitet h
 | 3.4|      Muss           |  Funktional    | Als ein User möchte ich, dass der Cumputer mir sagt: "Die Geheimzahl wurde erraten.", wenn ich die Zahl erraten habe.                         |
 | 4  |      Muss           |  Funktional    | Als ein User möchte ich, dass wenn ich die Zahl erraten haben, der Computer die anzahl versuche ausgibt.                                   |
 | 5  |      Muss           |  Funktional    | Als ein User möchte ich, dass Fehleingaben abgefangen werden.                                   |
-| 6  |      Muss           |  Funktional    | Als ein User möchte ich, dass wenn ich gewinne ein Siegessound abgespielt wird.                                  |
-| 7  |      Muss           |  Funktional    | Als ein User möchte ich, dass die Schriftfarbe der Korrekt geratenen Zahl Grün und der faschen geratenen Zahlen Rot ist         |
+| 6  |      Muss           |  Funktional    | Als ein User möchte ich, dass die Schriftfarbe der Korrekt geratenen Zahl Grün und der faschen geratenen Zahlen Rot ist         |
+| 7  |      Muss           |  Funktional    | Als ein User möchte ich, dass ich in einem Multiplayer Spielmodus spielen kann.|
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -53,8 +54,8 @@ Ich hoffe in diesem Projekt, die Grundlagen, die wir im 1. Lehrjahr erarbeitet h
 | 3.D  |  01.09.2023     |  Sacher         |  Ausgabe von einem Hinweis, für richtige Zahlen                 |  5 Min              |
 | 4.A  |  01.09.2023     |  Sacher         |  Ausgabe von Anzahl versuchen                                   | 30 Min              |
 | 5.A  |  01.09.2023     |  Sacher         |  Fehleingaben abfangen                                          | 30 Min              |
-| 6.A  |  01.09.2023     |  Sacher         |  Siegessound, wenn Sieg                                         | 30 Min              |
-| 7.A  |  01.09.2023     |  Sacher         |  Schriftfarbe für richtige Zahl Grün und für falsche Zahl rot   | 30 Min              |
+| 6.A  |  01.09.2023     |  Sacher         |  Schriftfarbe für richtige Zahl Grün und für falsche Zahl rot   | 30 Min              |
+| 7.A  |  01.09.2023     |  Sacher         |  Multiplayer umsetzen                                           | 30 Min              |
 
 
 Total: 
