@@ -48,13 +48,14 @@ LZ 1:
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
-###1.4.1 Hauptporgramm
+### 1.4.1 Hauptporgramm
+
 <img width="389" alt="image" src="https://github.com/robinsacher/LA_ILA2_1300_Einarbeitung/assets/110891559/262f9f21-494c-4be0-b554-bd4eefa34fae">
+### 1.4.2 Singleplayer
 
-###1.4.2 Singleplayer
 <img width="453" alt="image" src="https://github.com/robinsacher/LA_ILA2_1300_Einarbeitung/assets/110891559/9c58c253-9e4a-4360-ad2a-f4c2ffb3538b">
+### 1.4.3 Multiplayer
 
-###1.4.3 Multiplayer
 <img width="366" alt="image" src="https://github.com/robinsacher/LA_ILA2_1300_Einarbeitung/assets/110891559/520f83e1-decc-4a49-8bd2-e0437254d166">
 
 ## 2 Planen
