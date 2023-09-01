@@ -39,6 +39,7 @@ LZ 1:
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
+<img width="513" alt="image" src="https://github.com/robinsacher/LA_ILA2_1300_Einarbeitung/assets/110891559/01c339b2-9210-43f1-b9d1-fb34994bba51">
 
 ## 2 Planen
 
