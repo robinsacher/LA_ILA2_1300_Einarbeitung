@@ -70,7 +70,7 @@ LZ 1:
 Total: 
 
 ## 3 Entscheiden
-Ich habe mich dazu entschieden
+Ich habe mich dazu entschieden, dass ich das Projekt so umsetzen kann und das keine Änderungen nötig sind.
 
 ## 4 Realisieren
 
