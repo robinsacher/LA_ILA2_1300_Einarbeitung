@@ -40,8 +40,11 @@ LZ 1:
 
 ### 1.4 Diagramme
 <img width="220" alt="image" src="https://github.com/robinsacher/LA_ILA2_1300_Einarbeitung/assets/110891559/06ab9516-dcae-4d61-bca1-521cba981790">
+
 <img width="513" alt="image" src="https://github.com/robinsacher/LA_ILA2_1300_Einarbeitung/assets/110891559/01c339b2-9210-43f1-b9d1-fb34994bba51">
+
 <img width="483" alt="image" src="https://github.com/robinsacher/LA_ILA2_1300_Einarbeitung/assets/110891559/b6db8190-8c0e-425d-a326-334733487050">
+
 <img width="661" alt="image" src="https://github.com/robinsacher/LA_ILA2_1300_Einarbeitung/assets/110891559/ecb1a585-0638-43fb-99b4-e95d136535d3">
 
 
