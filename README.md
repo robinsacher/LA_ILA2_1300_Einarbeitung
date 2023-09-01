@@ -98,4 +98,4 @@ Ich habe mich dazu entschieden, dass ich das Projekt so umsetzen kann und das ke
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://portfolio.bbbaden.ch/view/view.php?t=9b18d9b7665017829ba1)https://portfolio.bbbaden.ch/view/view.php?t=9b18d9b7665017829ba1
