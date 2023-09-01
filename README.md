@@ -35,10 +35,10 @@ LZ 1:
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |      Programm gestartet        |    Spielmodus gewählt     |      Zufallszahl generiert             |
 | 2.1  |      Programm gestartet        |    Zahl     |      Keine Ausgabe             |
-| 3.a.1  |    Programm gestartet        |    Zahl     |      Hinweis             |
-| 3.b.1  |    Programm gestartet        |    Zahl     |      Zahl zu klein             |
-| 3.c.1  |    Programm gestartet        |    Zahl     |      Zahl zu gross             |
-| 3.d.1  |    Programm gestartet        |    Zahl     |      Zahl richtig             |
+| 3.a.1|    Programm gestartet          |    Zahl     |      Hinweis             |
+| 3.b.1|    Programm gestartet          |    Zahl     |      Zahl zu klein             |
+| 3.c.1|    Programm gestartet          |    Zahl     |      Zahl zu gross             |
+| 3.d.1|    Programm gestartet          |    Zahl     |      Zahl richtig             |
 | 4.1  |      Programm gestartet        |    richtige Zahl     |      Anzahl versuche             |
 | 5.1  |      Programm gestartet        |    falsche Eingabe     |   Falscheingabe, bitte versuchen sie es erneut                |
 | 6.1  |      Programm gestartet        |    Zahl     |   grüne oder rote Schriftfarbe                |
@@ -51,10 +51,6 @@ LZ 1:
 <img width="389" alt="image" src="https://github.com/robinsacher/LA_ILA2_1300_Einarbeitung/assets/110891559/262f9f21-494c-4be0-b554-bd4eefa34fae">
 <img width="453" alt="image" src="https://github.com/robinsacher/LA_ILA2_1300_Einarbeitung/assets/110891559/9c58c253-9e4a-4360-ad2a-f4c2ffb3538b">
 <img width="366" alt="image" src="https://github.com/robinsacher/LA_ILA2_1300_Einarbeitung/assets/110891559/520f83e1-decc-4a49-8bd2-e0437254d166">
-
-
-
-
 
 ## 2 Planen
 
@@ -71,15 +67,10 @@ LZ 1:
 | 6.A  |  01.09.2023     |  Sacher         |  Schriftfarbe für richtige Zahl Grün und für falsche Zahl rot   | 30 Min              |
 | 7.A  |  01.09.2023     |  Sacher         |  Multiplayer umsetzen                                           | 30 Min              |
 
-
 Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
-
 ## 3 Entscheiden
-Wir haben uns dazu entschieden
+Ich habe mich dazu entschieden
 
 ## 4 Realisieren
 
