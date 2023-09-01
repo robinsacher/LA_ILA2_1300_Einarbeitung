@@ -39,7 +39,7 @@ LZ 1:
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
-[Uploading <?xml version="1.0" encoding="utf-8"?>
+[Upload<?xml version="1.0" encoding="utf-8"?>
 <FRAME GUID="2FB25471-B62C-4EE6-BD43-F819C095ACF8" FORMAT="0000" APP_VERSION="2.2.0.8" CHECKSUM="A964EFC6D532DBE8">
   <PROJECT FORMAT="1.00" NAME="Numberguesser" AUTHOR="sacherrobin" CREATED="2023.09.01 09:39:04" MODIFIED="2023.09.01 09:59:32">
     <DIAGRAMS>
@@ -395,7 +395,8 @@ LZ 1:
       </DIAGRAM>
     </DIAGRAMS>
   </PROJECT>
-</FRAME>Numberguesser.pap…]()
+</FRAME>ing Numberguesser.pap…]()
+
 
 
 ## 2 Planen
