@@ -79,17 +79,22 @@ Total:
 ✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
-
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns dazu entschieden
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
-
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+| 1.A  |  25.08.2023     |  Sacher         |  15 Min                                            | 15 Min              |
+| 2.A  |  25.08.2023     |  Sacher         |  15 Min                                            | 15 Min              |
+| 3.A  |  25.08.2023     |  Sacher         |  30 Min                                            | 30 Min              |
+| 3.B  |  25.08.2023     |  Sacher         |   5 Min                                            |  5 Min              |
+| 3.C  |  25.08.2023     |  Sacher         |   5 Min                                            |  5 Min              |
+| 3.D  |  25.08.2023     |  Sacher         |   5 Min                                            |  5 Min              |
+| 4.A  |  25.08.2023     |  Sacher         |  30 Min                                            | 30 Min              |
+| 5.A  |  25.08.2023     |  Sacher         |  30 Min                                            | 60 Min              |
+| 6.A  |  25.08.2023     |  Sacher         |  30 Min                                            | 30 Min              |
+| 7.A  |  25.08.2023     |  Sacher         |  30 Min                                            | 90 Min              |
 
 ## 5 Kontrollieren
 
