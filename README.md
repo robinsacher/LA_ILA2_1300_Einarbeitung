@@ -17,13 +17,13 @@ LZ 1:
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1  |      Muss           |  Funktional    | Als ein User möchte ich, dass der Computer eine Zufallszahl zwischen und mit 1 bis 100 als Geheimzahl speichert, damit ich sie erraten kann. |
 | 2  |      Muss           |  Funktional    | Als ein User möchte ich, dass der Benutzer Zahlen raten kann, damit man das Spiel gewinnen kann.                        |
-| 3.1|      Muss           |  Funktional    | Als ein User möchte ich, dass der Computer einen Hinweis für jedene Geratene Zahl ausgibt, damit ich weis, ob ich gewonnen habe oder nicht    |
-| 3.2|      Muss           |  Funktional    | Als ein User möchte ich, dass der Computer mir sagt: "Die geratene Zahl ist niedriger als die Geheimzahl." , wenn meine Zahl zu klein war.    |
-| 3.3|      Muss           |  Funktional    | Als ein User möchte ich, dass der Cumputer mir sagt: "Die geratene Zahl ist grösser als die Geheimzahl.", wenn meine Zahl zu gross war.   |
-| 3.4|      Muss           |  Funktional    | Als ein User möchte ich, dass der Cumputer mir sagt: "Die Geheimzahl wurde erraten.", wenn ich die Zahl erraten habe.                         |
+| 3.a|      Muss           |  Funktional    | Als ein User möchte ich, dass der Computer einen Hinweis für jedene Geratene Zahl ausgibt, damit ich weis, ob ich gewonnen habe oder nicht    |
+| 3.b|      Muss           |  Funktional    | Als ein User möchte ich, dass der Computer mir sagt: "Die geratene Zahl ist niedriger als die Geheimzahl." , wenn meine Zahl zu klein war.    |
+| 3.c|      Muss           |  Funktional    | Als ein User möchte ich, dass der Cumputer mir sagt: "Die geratene Zahl ist grösser als die Geheimzahl.", wenn meine Zahl zu gross war.   |
+| 3.d|      Muss           |  Funktional    | Als ein User möchte ich, dass der Cumputer mir sagt: "Die Geheimzahl wurde erraten.", wenn ich die Zahl erraten habe.                         |
 | 4  |      Muss           |  Funktional    | Als ein User möchte ich, dass wenn ich die Zahl erraten haben, der Computer die anzahl versuche ausgibt.                                   |
 | 5  |      Muss           |  Funktional    | Als ein User möchte ich, dass Fehleingaben abgefangen werden.                                   |
-| 6  |      Muss           |  Funktional    | Als ein User möchte ich, dass die Schriftfarbe der Korrekt geratenen Zahl Grün und der faschen geratenen Zahlen Rot ist         |
+| 6  |      Muss           |  Funktional    | Als ein User möchte ich, dass die Schriftfarbe des Text der angezeigt wird zu grün geändert wird, wenn ich die richtige Zahl eingebe und dass er rot wird, wenn iche eine falsche Zahl eingebe.|
 | 7  |      Muss           |  Funktional    | Als ein User möchte ich, dass ich in einem Multiplayer Spielmodus spielen kann.|
 
 
@@ -33,8 +33,17 @@ LZ 1:
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |      Programm gestartet        |    Spielmodus gewählt     |      Zufallszahl generiert             |
+| 2.1  |      Programm gestartet        |    Zahl     |      Keine Ausgabe             |
+| 3.a.1  |    Programm gestartet        |    Zahl     |      Hinweis             |
+| 3.b.1  |    Programm gestartet        |    Zahl     |      Zahl zu klein             |
+| 3.c.1  |    Programm gestartet        |    Zahl     |      Zahl zu gross             |
+| 3.d.1  |    Programm gestartet        |    Zahl     |      Zahl richtig             |
+| 4.1  |      Programm gestartet        |    richtige Zahl     |      Anzahl versuche             |
+| 5.1  |      Programm gestartet        |    falsche Eingabe     |   Falscheingabe, bitte versuchen sie es erneut                |
+| 6.1  |      Programm gestartet        |    Zahl     |   grüne oder rote Schriftfarbe                |
+| 7.1  |      Programm gestartet        |    Multiplayer     |      Multiplayer wird gestartet             |
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
