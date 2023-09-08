@@ -8,9 +8,6 @@
 
 In diesem Projekt entwickle ich ein Numberguesser mit der Programmiersprache C#, der Rückmeldung gibt, ob die geratene Zahl zu hoch, zu tief oder genau richtig ist. Ausserdem baue ich einen Singleplayer und einen Multiplayer ein, indem man z.B. mit einem Freund spielen kann.
 
-### 1.2 Ihre Ziele
-LZ 1: 
-
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
@@ -26,26 +23,20 @@ LZ 1:
 | 6  |      Muss           |  Funktional    | Als ein User möchte ich, dass die Schriftfarbe des Text der angezeigt wird zu grün geändert wird, wenn ich die richtige Zahl eingebe und dass er rot wird, wenn iche eine falsche Zahl eingebe.|
 | 7  |      Muss           |  Funktional    | Als ein User möchte ich, dass ich in einem Multiplayer Spielmodus spielen kann.|
 
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
-
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |      Programm gestartet        |    Spielmodus gewählt     |      Zufallszahl generiert             |
 | 2.1  |      Programm gestartet        |    Zahl     |      Keine Ausgabe             |
-| 3.a.1|    Programm gestartet          |    Zahl     |      Hinweis             |
-| 3.b.1|    Programm gestartet          |    Zahl     |      Zahl zu klein             |
-| 3.c.1|    Programm gestartet          |    Zahl     |      Zahl zu gross             |
-| 3.d.1|    Programm gestartet          |    Zahl     |      Zahl richtig             |
+| 3.a.1|      Programm gestartet        |    Zahl     |      Hinweis             |
+| 3.b.1|      Programm gestartet        |    Zahl     |      Zahl zu klein             |
+| 3.c.1|      Programm gestartet        |    Zahl     |      Zahl zu gross             |
+| 3.d.1|      Programm gestartet        |    Zahl     |      Zahl richtig             |
 | 4.1  |      Programm gestartet        |    richtige Zahl     |      Anzahl versuche             |
 | 5.1  |      Programm gestartet        |    falsche Eingabe     |   Falscheingabe, bitte versuchen sie es erneut                |
 | 6.1  |      Programm gestartet        |    Zahl     |   grüne oder rote Schriftfarbe                |
 | 7.1  |      Programm gestartet        |    Multiplayer     |      Multiplayer wird gestartet             |
-
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
@@ -73,7 +64,7 @@ LZ 1:
 | 6.A  |  01.09.2023     |  Sacher         |  Schriftfarbe für richtige Zahl Grün und für falsche Zahl rot   | 30 Min              |
 | 7.A  |  01.09.2023     |  Sacher         |  Multiplayer umsetzen                                           | 30 Min              |
 
-Total: 
+Total: 3 Stunden 15 Minuten 
 
 ## 3 Entscheiden
 Ich habe mich dazu entschieden, dass ich das Projekt so umsetzen kann und das keine Änderungen nötig sind.
@@ -97,11 +88,21 @@ Ich habe mich dazu entschieden, dass ich das Projekt so umsetzen kann und das ke
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |  08.09.2023       |   OK       |   Robin Sacher      |
+| 2.1  |  08.09.2023       |   OK       |   Robin Sacher      |
+| 3.a.1|  08.09.2023       |   OK       |   Robin Sacher      |
+| 2.b.1|  08.09.2023       |   OK       |   Robin Sacher      |
+| 2.c.1|  08.09.2023       |   OK       |   Robin Sacher      |
+| 2.d.1|  08.09.2023       |   OK       |   Robin Sacher      |
+| 4.1  |  08.09.2023       |   OK       |   Robin Sacher      |
+| 5.1  |  08.09.2023       |   OK       |   Robin Sacher      |
+| 6.1  |  08.09.2023       |   OK       |   Robin Sacher      |
+| 7.1  |  08.09.2023       |   OK       |   Robin Sacher      |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Alle Testfälle wurden erfolgreich fruchgeführt
 
 ## 6 Auswerten
+Das Projekt ist sehr gut verlaufen, da wir im ersten Lehrjahr im Lernatelier schoneinmal ein numberguesser programmiert haben. Das einzig neue was hinzu gekommen ist, ist das OOP. Hier hatte ich am Anfang ein bisschen Mühe zu verstehen, wie man dies an einem konkreten Beispiel in der Praxis anwendet. Nun habe ich dies aber vertsanden.
+
 ## 7 Portfolioeintrag
 [https://portfolio.bbbaden.ch/view/view.php?t=9b18d9b7665017829ba1)https://portfolio.bbbaden.ch/view/view.php?t=9b18d9b7665017829ba1](https://portfolio.bbbaden.ch/view/view.php?t=9b18d9b7665017829ba1)
