@@ -19,9 +19,10 @@ In diesem Projekt entwickle ich ein Numberguesser mit der Programmiersprache C#,
 | 3.c|      Muss           |  Funktional    | Als ein User möchte ich, dass der Cumputer mir sagt: "Die geratene Zahl ist grösser als die Geheimzahl.", wenn meine Zahl zu gross war.   |
 | 3.d|      Muss           |  Funktional    | Als ein User möchte ich, dass der Cumputer mir sagt: "Die Geheimzahl wurde erraten.", wenn ich die Zahl erraten habe.                         |
 | 4  |      Muss           |  Funktional    | Als ein User möchte ich, dass wenn ich die Zahl erraten haben, der Computer die anzahl versuche ausgibt.                                   |
-| 5  |      Muss           |  Funktional    | Als ein User möchte ich, dass Fehleingaben abgefangen werden.                                   |
-| 6  |      Muss           |  Funktional    | Als ein User möchte ich, dass die Schriftfarbe des Text der angezeigt wird zu grün geändert wird, wenn ich die richtige Zahl eingebe und dass er rot wird, wenn iche eine falsche Zahl eingebe.|
-| 7  |      Muss           |  Funktional    | Als ein User möchte ich, dass ich in einem Multiplayer Spielmodus spielen kann.|
+| 5  |      Muss           |  Funktional    | Als User möchte ich, dass ein Sound abgespielt wird, sobalt ich gewinne|
+| 6  |      Muss           |  Funktional    | Als ein User möchte ich, dass Fehleingaben abgefangen werden.                                   |
+| 7  |      Muss           |  Funktional    | Als ein User möchte ich, dass die Schriftfarbe des Text der angezeigt wird zu grün geändert wird, wenn ich die richtige Zahl eingebe und dass er rot wird, wenn iche eine falsche Zahl eingebe.|
+| 8  |      Muss           |  Funktional    | Als ein User möchte ich, dass ich in einem Multiplayer Spielmodus spielen kann.|
 
 ### 1.3 Testfälle
 
@@ -34,9 +35,10 @@ In diesem Projekt entwickle ich ein Numberguesser mit der Programmiersprache C#,
 | 3.c.1|      Programm gestartet        |    Zahl     |      Zahl zu gross             |
 | 3.d.1|      Programm gestartet        |    Zahl     |      Zahl richtig             |
 | 4.1  |      Programm gestartet        |    richtige Zahl     |      Anzahl versuche             |
-| 5.1  |      Programm gestartet        |    falsche Eingabe     |   Falscheingabe, bitte versuchen sie es erneut                |
-| 6.1  |      Programm gestartet        |    Zahl     |   grüne oder rote Schriftfarbe                |
-| 7.1  |      Programm gestartet        |    Multiplayer     |      Multiplayer wird gestartet             |
+| 5.1  |      Programm gestartet        |    Richtige Zahl     |    Sound          |
+| 6.1  |      Programm gestartet        |    falsche Eingabe     |   Falscheingabe, bitte versuchen sie es erneut                |
+| 7.1  |      Programm gestartet        |    Zahl     |   grüne oder rote Schriftfarbe                |
+| 8.1  |      Programm gestartet        |    Multiplayer     |      Multiplayer wird gestartet             |
 
 ### 1.4 Diagramme
 
@@ -60,11 +62,12 @@ In diesem Projekt entwickle ich ein Numberguesser mit der Programmiersprache C#,
 | 3.C  |  01.09.2023     |  Sacher         |  Ausgabe von einem Hinweis, für zu grosse Zahlen                |  5 Min              |
 | 3.D  |  01.09.2023     |  Sacher         |  Ausgabe von einem Hinweis, für richtige Zahlen                 |  5 Min              |
 | 4.A  |  01.09.2023     |  Sacher         |  Ausgabe von Anzahl versuchen                                   | 30 Min              |
-| 5.A  |  01.09.2023     |  Sacher         |  Fehleingaben abfangen                                          | 30 Min              |
-| 6.A  |  01.09.2023     |  Sacher         |  Schriftfarbe für richtige Zahl Grün und für falsche Zahl rot   | 30 Min              |
-| 7.A  |  01.09.2023     |  Sacher         |  Multiplayer umsetzen                                           | 30 Min              |
+| 5.A  |  01.09.2023     |  Sacher         |  Abspielen von Sound                                            | 30 Min              |
+| 6.A  |  01.09.2023     |  Sacher         |  Fehleingaben abfangen                                          | 30 Min              |
+| 7.A  |  01.09.2023     |  Sacher         |  Schriftfarbe für richtige Zahl Grün und für falsche Zahl rot   | 30 Min              |
+| 8.A  |  01.09.2023     |  Sacher         |  Multiplayer umsetzen                                           | 30 Min              |
 
-Total: 3 Stunden 15 Minuten 
+Total: 3 Stunden 45 Minuten 
 
 ## 3 Entscheiden
 Ich habe mich dazu entschieden, dass ich das Projekt so umsetzen kann und das keine Änderungen nötig sind.
@@ -80,9 +83,10 @@ Ich habe mich dazu entschieden, dass ich das Projekt so umsetzen kann und das ke
 | 3.C  |  25.08.2023     |  Sacher         |   5 Min                                            |  5 Min              |
 | 3.D  |  25.08.2023     |  Sacher         |   5 Min                                            |  5 Min              |
 | 4.A  |  25.08.2023     |  Sacher         |  30 Min                                            | 30 Min              |
-| 5.A  |  25.08.2023     |  Sacher         |  30 Min                                            | 60 Min              |
-| 6.A  |  25.08.2023     |  Sacher         |  30 Min                                            | 30 Min              |
-| 7.A  |  25.08.2023     |  Sacher         |  30 Min                                            | 90 Min              |
+| 5.A  |  25.08.2023     |  Sacher         |  30 Min                                            | 10 Min              |
+| 6.A  |  25.08.2023     |  Sacher         |  30 Min                                            | 60 Min              |
+| 7.A  |  25.08.2023     |  Sacher         |  30 Min                                            | 30 Min              |
+| 8.A  |  25.08.2023     |  Sacher         |  30 Min                                            | 90 Min              |
 
 ## 5 Kontrollieren
 
@@ -98,6 +102,7 @@ Ich habe mich dazu entschieden, dass ich das Projekt so umsetzen kann und das ke
 | 5.1  |  08.09.2023       |   OK       |   Robin Sacher      |
 | 6.1  |  08.09.2023       |   OK       |   Robin Sacher      |
 | 7.1  |  08.09.2023       |   OK       |   Robin Sacher      |
+| 8.1  |  08.09.2023       |   OK       |   Robin Sacher      |
 
 Alle Testfälle wurden erfolgreich fruchgeführt
 
