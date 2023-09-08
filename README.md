@@ -27,7 +27,7 @@ In diesem Projekt entwickle ich ein Numberguesser mit der Programmiersprache C#,
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |      Programm gestartet        |    Spielmodus gewählt     |      Zufallszahl generiert             |
+| 1.1  |      Programm gestartet        |    Spielmodus gewählt     |     Spielmodus gestartet und Zufallszahl generiert             |
 | 2.1  |      Programm gestartet        |    Zahl     |      Keine Ausgabe             |
 | 3.a.1|      Programm gestartet        |    Zahl     |      Hinweis             |
 | 3.b.1|      Programm gestartet        |    Zahl     |      Zahl zu klein             |
