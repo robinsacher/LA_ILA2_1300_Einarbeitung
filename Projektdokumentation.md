@@ -104,10 +104,10 @@ Ich habe mich dazu entschieden, dass ich das Projekt so umsetzen kann und das ke
 | 7.1  |  08.09.2023       |   OK       |   Robin Sacher      |
 | 8.1  |  08.09.2023       |   OK       |   Robin Sacher      |
 
-Alle Testfälle wurden erfolgreich fruchgeführt
+Alle Testfälle wurden erfolgreich druchgeführt und erfüllt.
 
 ## 6 Auswerten
-Das Projekt ist sehr gut verlaufen, da wir im ersten Lehrjahr im Lernatelier schoneinmal ein numberguesser programmiert haben. Das einzig neue was hinzu gekommen ist, ist das OOP. Hier hatte ich am Anfang ein bisschen Mühe zu verstehen, wie man dies an einem konkreten Beispiel in der Praxis anwendet. Nun habe ich dies aber vertsanden.
+Das Projekt ist sehr gut verlaufen, da wir im ersten Lehrjahr im Lernatelier schoneinmal ein Numberguesser programmiert haben. Das einzig Neue was hinzu gekommen ist, ist das OOP. Hier hatte ich am Anfang ein bisschen Mühe zu verstehen, wie man dies an einem konkreten Beispiel in der Praxis anwendet. Nun habe ich dies aber vertsanden und denke, dass es sehr praktisch ist, wenn man ein Programm in mehrere Klassen unterteilt, da es die Entwicklung deutlich vereinfacht.
 
 ## 7 Portfolioeintrag
 [https://portfolio.bbbaden.ch/view/view.php?t=9b18d9b7665017829ba1)https://portfolio.bbbaden.ch/view/view.php?t=9b18d9b7665017829ba1](https://portfolio.bbbaden.ch/view/view.php?t=9b18d9b7665017829ba1)
